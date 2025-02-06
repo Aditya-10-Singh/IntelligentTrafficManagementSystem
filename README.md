@@ -28,7 +28,7 @@ An advanced traffic management solution designed to analyze and mitigate traffic
 1. Clone the repository:
     ```bash
     git clone https://github.com/Aditya-10-Singh/IntelligentTrafficManagementSystem.git
-    cd intelligent-traffic-management
+    cd IntelligentTrafficManagementSystem
     ```
 2. Install dependencies:
     ```bash
