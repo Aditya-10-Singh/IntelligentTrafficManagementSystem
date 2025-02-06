@@ -39,7 +39,7 @@ An advanced traffic management solution designed to analyze and mitigate traffic
 
 4. Run the application:
     ```bash
-    python app.py
+    python itms.py
     ```
 
 ---
