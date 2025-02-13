@@ -8,7 +8,7 @@ import webbrowser
 import os
 from tkinter import messagebox
 
-API_KEY = 'AIzaSyD5M6O9EEhMUKTOwbCUvKAwcimStjqXJms'  # Replace this with your actual API key
+API_KEY = 'Replace this with your actual API key'
 
 
 def meters_to_degrees_latitude(meters):
